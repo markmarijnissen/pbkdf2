@@ -1,5 +1,8 @@
 # pbkdf2
 
+**NOTE: Changed package.json to always use browser version, to fix an issue with Meteor**
+
+
 [![NPM Package](https://img.shields.io/npm/v/pbkdf2.svg?style=flat-square)](https://www.npmjs.org/package/pbkdf2)
 [![Build Status](https://img.shields.io/travis/crypto-browserify/pbkdf2.svg?branch=master&style=flat-square)](https://travis-ci.org/crypto-browserify/pbkdf2)
 [![Dependency status](https://img.shields.io/david/crypto-browserify/pbkdf2.svg?style=flat-square)](https://david-dm.org/crypto-browserify/pbkdf2#info=dependencies)
